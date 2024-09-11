@@ -28,3 +28,15 @@ StonePlantMound3,-89,-80,-2790,-2779
 SmallWoodenCottage1,92,103,-2750,-2744
 StonePlantMound,-142,-137,-2777,-2772
 StonePlantMound1,-150,-144,-2782,-2776
+StoneBoulder,-94,-85,-2720,-2711
+StonePlantMound1,-122,-116,-2702,-2696
+StonePlantMound3,-206,-195,-2968,-2959
+RLCraft_SmallUndergroundSkeleton,-193,-185,-2932,-2924
+RLCraft_DecentZombie,-199,-199,-3056,-3056
+RLCraft_UndergroundRuin3,-205,-197,-3059,-3051
+StonePlantMound2,-129,-117,-2698,-2685
+StonePlantBoulder,-189,-179,-2737,-2727
+StonePlantMound4,205,212,-2940,-2933
+StoneBoulder,257,266,-2978,-2969
+StoneBoulder,-169,-160,-2661,-2652
+RLCraft_4Towers,131,183,-2649,-2589

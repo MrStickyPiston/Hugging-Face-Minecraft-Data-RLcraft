@@ -1,3 +1,12 @@
+Did not find any Building data for ./config/ruins_config/mutated_jungle, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/plains_defiled, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mushroom_island, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_swampland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/arid_highland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_birch_forest_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/swampland, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/forested_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_plains, creating empty folder for it: failed
 
 Loading options from: /minecraft/data/World/DIM-1
 tries_per_chunk_normal = 6

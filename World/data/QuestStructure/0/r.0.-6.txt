@@ -1,1 +1,7 @@
 StoneBoulder,-34,-25,-3093,-3084
+StonePlantMound4,-194,-187,-3127,-3120
+StonePlantBoulder,-139,-129,-3158,-3148
+WoodWallRemains,-106,-78,-3181,-3173
+SmallWoodenCottage1,-64,-58,-3189,-3178
+RLCraft_BasicCaveSpider,153,153,-3128,-3128
+RLCraft_UndergroundRuin1,147,156,-3134,-3125
