@@ -1,0 +1,9 @@
+RLCraft_BasicSpider,-148,-148,109,109
+RLCraft_UndergroundRuin1,-154,-145,106,115
+DinosaurSkeleton,-75,-66,164,210
+ShrineSmallAir,-44,-36,233,241
+SmallAbandonedMine,44,59,123,148
+RLCraft_DecentSpider,73,73,289,289
+RLCraft_UndergroundRuin3,71,79,284,292
+ClayWaterMound1,135,145,216,227
+StonePlantMound1,-185,-179,-268,-262
