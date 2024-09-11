@@ -1,0 +1,12 @@
+StoneBoulder,1043,1052,-8718,-8709
+StoneLeafMound,1271,1278,-8722,-8713
+StonePlantBoulder,1322,1332,-8769,-8759
+StonePlantMound,1238,1243,-8790,-8785
+StonePlantBoulder,1363,1373,-8796,-8786
+StonePlantMound4,1267,1274,-8802,-8795
+StonePlantMound3,1215,1224,-8814,-8803
+StonePlantBoulder,1320,1330,-8808,-8798
+StonePlantBoulder,1382,1392,-8811,-8801
+StoneBoulder,1259,1268,-8825,-8816
+RLCraft_DecentCaveSpider,1056,1056,-8749,-8749
+RLCraft_UndergroundRuin2,1054,1061,-8754,-8744

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MR_sticky_piston",
+      "uniqueId": "1df745e7-4c67-415a-8bce-7c55dadf5722"
+    },
+    "time": 1726071644579,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/C14uAW8PMw"
+    }
+  }
+]

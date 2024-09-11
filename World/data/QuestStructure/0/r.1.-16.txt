@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,965,973,-8592,-8584
+StoneBoulder,1011,1020,-8616,-8607
+StonePlantMound4,958,965,-8649,-8642
+StonePlantBoulder,998,1008,-8650,-8640
+StonePlantMound2,983,996,-8670,-8658
+StonePlantMound1,994,1000,-8673,-8667
+StonePlantMound,864,869,-8657,-8652
+StonePlantMound2,882,895,-8699,-8687
+BlazeSpawnerCrystal,830,836,-8439,-8433
+DinosaurSkeleton,956,965,-8333,-8287

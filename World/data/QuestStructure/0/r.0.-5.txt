@@ -40,3 +40,13 @@ StonePlantMound4,205,212,-2940,-2933
 StoneBoulder,257,266,-2978,-2969
 StoneBoulder,-169,-160,-2661,-2652
 RLCraft_4Towers,131,183,-2649,-2589
+StonePlantMound3,-38,-27,-2585,-2576
+StoneBoulder,82,91,-2580,-2571
+RLCraft_DecentSpider,222,222,-2592,-2592
+RLCraft_UndergroundRuin3,216,224,-2597,-2589
+SmallWoodenCottage2,282,290,-2837,-2829
+WoodWallRemains,267,295,-2921,-2913
+RLCraft_DecentWitch,328,328,-2632,-2632
+RLCraft_UndergroundRuin2,323,333,-2637,-2630
+RLCraft_BasicSkeleton,382,382,-2867,-2867
+RLCraft_UndergroundRuin1,379,388,-2870,-2861

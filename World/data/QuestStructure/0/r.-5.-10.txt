@@ -1,0 +1,4 @@
+StoneLeafMound,-2813,-2804,-5407,-5400
+DinosaurSkull,-2859,-2840,-5244,-5233
+RLCraft_UndergroundFarm,-2983,-2940,-5269,-5227
+StonePlantBoulder,-2973,-2963,-5214,-5204

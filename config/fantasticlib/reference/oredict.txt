@@ -292,6 +292,8 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -301,8 +303,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 itemArmor
 itemPakFiller
 itemLeggings

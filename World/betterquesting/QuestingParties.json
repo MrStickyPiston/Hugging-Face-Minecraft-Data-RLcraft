@@ -1,3 +1,18 @@
 {
-  "parties:9": {}
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "1df745e7-4c67-415a-8bce-7c55dadf5722",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Pig Party"
+        }
+      }
+    }
+  }
 }
