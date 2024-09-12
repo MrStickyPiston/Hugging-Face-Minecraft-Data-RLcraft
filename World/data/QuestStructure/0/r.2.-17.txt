@@ -10,3 +10,9 @@ StonePlantBoulder,1382,1392,-8811,-8801
 StoneBoulder,1259,1268,-8825,-8816
 RLCraft_DecentCaveSpider,1056,1056,-8749,-8749
 RLCraft_UndergroundRuin2,1054,1061,-8754,-8744
+StoneLeafMound,1095,1104,-8849,-8842
+CorruptedEnderTree,1094,1105,-8853,-8840
+SmallFortRuins,1090,1120,-8894,-8862
+StoneLeafMound,1045,1052,-8908,-8899
+Tree_Oak_TheMushroomOak_v3,1074,1124,-8946,-8887
+MysticalTree2,1165,1175,-8850,-8840

@@ -1,0 +1,12 @@
+BrickHenge,964,980,-8777,-8761
+StonePlantMound1,941,947,-8764,-8758
+WoodThorn,835,846,-8755,-8744
+StonePlantMound4,1017,1024,-8784,-8777
+StonePlantMound4,816,823,-8726,-8719
+StoneBoulder,968,977,-8858,-8849
+ShrineSmallAir,931,939,-8872,-8864
+RLCraft_LargeUndergroundTown,918,1031,-8941,-8804
+ShrineSmallAir,793,801,-8909,-8901
+RLCraft_DecentSpider,784,784,-8858,-8858
+RLCraft_UndergroundRuin2,779,789,-8863,-8856
+StonePlantBoulder,895,905,-8940,-8930

@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-09-11 17:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-09-11 15:51:03 +0000"
@@ -200,6 +206,12 @@
   "mujmajnkraftsbettersurvival:stone_nunchaku": {
     "criteria": {
       "has_stone": "2024-09-11 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-09-11 17:40:16 +0000"
     },
     "done": true
   },
@@ -319,6 +331,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-09-11 17:36:47 +0000",
       "beef": "2024-09-11 15:53:39 +0000",
       "apple": "2024-09-11 15:53:42 +0000"
     },
@@ -366,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-09-11 17:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-11 15:52:01 +0000"
@@ -408,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-11 15:52:01 +0000"
@@ -429,6 +454,12 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2024-09-11 15:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-09-11 17:40:16 +0000"
     },
     "done": true
   },
@@ -462,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-09-11 15:17:48 +0000"
@@ -492,6 +529,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2024-09-11 17:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-09-11 15:24:42 +0000"
@@ -513,6 +568,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-09-11 15:24:46 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
     },
     "done": true
   },
@@ -582,6 +643,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-09-11 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
     },
     "done": true
   },
@@ -663,6 +730,12 @@
     },
     "done": true
   },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2024-09-11 17:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-09-11 16:26:27 +0000"
@@ -699,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-09-11 15:16:29 +0000"
@@ -710,6 +789,12 @@
       "has_white_wool": "2024-09-11 15:17:48 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "creeper": "2024-09-11 17:38:04 +0000"
+    },
+    "done": false
   },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
@@ -729,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-09-11 17:06:13 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_battleaxe": {
     "criteria": {
       "has_iron": "2024-09-11 15:24:42 +0000"
@@ -744,6 +835,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-09-11 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_item": "2024-09-11 17:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-11 17:48:32 +0000"
     },
     "done": true
   },
