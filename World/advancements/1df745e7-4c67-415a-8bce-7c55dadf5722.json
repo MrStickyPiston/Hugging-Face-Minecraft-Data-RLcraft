@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-13 12:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-09-11 14:38:22 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-11 14:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-09-13 12:39:25 +0000"
     },
     "done": true
   },
@@ -254,6 +266,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2024-09-11 14:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-09-13 12:11:27 +0000"
     },
     "done": true
   },
@@ -404,7 +422,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-09-11 14:12:52 +0000",
-      "bread": "2024-09-11 14:35:09 +0000"
+      "bread": "2024-09-11 14:35:09 +0000",
+      "cooked_chicken": "2024-09-12 17:12:18 +0000"
     },
     "done": false
   },
@@ -465,6 +484,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-09-11 15:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-09-13 12:39:25 +0000"
     },
     "done": true
   },
@@ -576,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-13 12:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-09-11 14:41:04 +0000"
@@ -684,9 +715,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-09-12 17:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-09-11 11:19:37 +0000",
+      "plains": "2024-09-13 12:32:59 +0000",
       "taiga": "2024-09-11 16:26:28 +0000",
       "taiga_hills": "2024-09-11 16:27:52 +0000",
       "river": "2024-09-11 16:26:23 +0000"
@@ -780,6 +818,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-09-11 14:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2024-09-12 17:12:08 +0000"
     },
     "done": true
   },

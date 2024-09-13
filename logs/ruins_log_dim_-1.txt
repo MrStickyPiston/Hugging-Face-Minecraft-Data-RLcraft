@@ -1,3 +1,13 @@
+Did not find any Building data for ./config/ruins_config/mutated_ice_flats, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/frozen_ocean, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/snowy_coniferous_forest, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_mesa, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/temperate_rainforest, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/woodlands, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/hills_defiled, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/redwood_taiga_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga_hills, creating empty folder for it: failed
 
 Loading options from: /minecraft/data/World/DIM-1
 tries_per_chunk_normal = 6

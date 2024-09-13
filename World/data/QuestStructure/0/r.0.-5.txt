@@ -50,3 +50,9 @@ RLCraft_DecentWitch,328,328,-2632,-2632
 RLCraft_UndergroundRuin2,323,333,-2637,-2630
 RLCraft_BasicSkeleton,382,382,-2867,-2867
 RLCraft_UndergroundRuin1,379,388,-2870,-2861
+StoneLeafMound,-235,-226,-2766,-2759
+StoneLeafMound,-250,-241,-2798,-2791
+StonePlantMound3,-243,-234,-2983,-2972
+StonePlantMound4,-263,-256,-2944,-2937
+RLCraft_DecentSpider,-268,-268,-2928,-2928
+RLCraft_UndergroundRuin3,-271,-263,-2930,-2922
