@@ -422,6 +422,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-09-11 14:12:52 +0000",
+      "apple": "2024-09-28 17:08:45 +0000",
       "bread": "2024-09-11 14:35:09 +0000",
       "cooked_chicken": "2024-09-12 17:12:18 +0000"
     },
@@ -949,6 +950,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-09-28 17:15:47 +0000",
       "skeleton": "2024-09-11 15:05:23 +0000"
     },
     "done": false
