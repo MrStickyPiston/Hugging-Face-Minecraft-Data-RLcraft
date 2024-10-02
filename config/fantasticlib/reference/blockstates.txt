@@ -2919,6 +2919,10 @@ quark:blaze_rod:2
 quark:blaze_rod:3
 quark:blaze_rod:4
 quark:blaze_rod:5
+quark:glowstone_dust_block:0
+quark:gunpowder_block:0
+quark:gunpowder_block:1
+quark:black_ash:0
 quark:sandstone_new:0
 quark:sandstone_new:1
 quark:sandstone_new:2
@@ -3948,10 +3952,6 @@ quark:rain_detector:0
 quark:rain_detector:1
 quark:rain_detector:2
 quark:rain_detector:3
-quark:glowstone_dust_block:0
-quark:gunpowder_block:0
-quark:gunpowder_block:1
-quark:black_ash:0
 quark:roots:0
 quark:roots:1
 quark:roots:2
