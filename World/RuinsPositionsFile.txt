@@ -9,8 +9,8 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
--6577 88 135 -6573 94 138 StonePillar.tml
 -6577 69 -57 -6572 81 -52 FrozenBush.tml
+-6577 88 135 -6573 94 138 StonePillar.tml
 -6570 67 -173 -6559 95 -162 FrozenTree.tml
 -6513 71 217 -6511 75 220 SkeletonHeadStatue.tml
 -6487 63 -99 -6474 72 -86 SnowHenge.tml
@@ -61,15 +61,15 @@
 -291 72 -3079 -276 83 -3068 Barn-intact.tml
 -284 71 -2995 -273 82 -2980 Barn-ruined.tml
 -262 64 -2873 -254 73 -2865 LargeStoneTwoStoryHouse.tml
--239 69 -2776 -234 74 -2771 VanillaVillageLadder-p.tml
 -239 62 307 -227 84 319 BaloonVeryLow.tml
+-239 69 -2776 -234 74 -2771 VanillaVillageLadder-p.tml
 -236 66 -3233 -232 74 -3229 SmallWell.tml
 -234 63 420 -204 106 450 SkyCastle.tml
 -226 47 315 -218 59 341 shipwreck.tml
 -197 81 -3088 -192 84 -3081 Melonfield.tml
 -195 118 205 -180 126 214 Archway.tml
--167 61 -2838 -160 65 -2831 TinyFarmField.tml
 -167 62 -2629 -159 72 -2621 TallTower.tml
+-167 61 -2838 -160 65 -2831 TinyFarmField.tml
 -160 74 -3009 -152 84 -3001 LargeStoneHouseWBasement.tml
 -141 64 -3185 -120 72 -3159 GraveyardHaunted.tml
 -122 79 -2727 -118 84 -2721 VanillaVillageHut-r.tml
@@ -78,8 +78,8 @@
 -111 71 278 -104 78 285 Outcrop.tml
 -100 76 -251 -93 83 -244 Outcrop.tml
 -95 77 -322 -91 79 -318 EmeraldOreOutcrop.tml
--91 74 -2900 -89 78 -2897 SkeletonHeadStatue.tml
 -91 71 -3085 -82 74 -3076 RuinedSmallFountainDiagonal.tml
+-91 74 -2900 -89 78 -2897 SkeletonHeadStatue.tml
 -90 67 -2819 -84 73 -2811 StoneHouse.tml
 -79 71 -3004 -71 81 -2996 TallTower.tml
 -63 75 -2576 -55 84 -2568 LargeStoneTwoStoryHouse.tml
@@ -90,8 +90,8 @@
 -20 79 -3193 -16 81 -3189 EmeraldOreOutcrop.tml
 -10 64 -2890 -5 68 -2885 CaveSpiderBurrow.tml
 -2 64 -3094 15 97 -3077 SpiralTree.tml
-9 76 -3280 11 80 -3277 SkeletonHeadStatue.tml
 9 130 17 20 138 25 MinersHut.tml
+9 76 -3280 11 80 -3277 SkeletonHeadStatue.tml
 11 65 144 19 75 152 LargeStoneHouseWBasement.tml
 12 77 -2570 20 83 -2562 ShortTower.tml
 18 35 433 54 54 444 SunkenShip-v2.tml
@@ -101,8 +101,8 @@
 70 48 318 81 59 354 SunkenShip-v3.tml
 71 66 -3169 79 72 -3161 LargeStoneHouse.tml
 72 65 -2823 76 67 -2819 EmeraldOreOutcrop.tml
-84 60 -3278 91 70 -3271 BridgePilings-sm2.tml
 84 67 -2647 92 73 -2639 LargeStoneHouse.tml
+84 60 -3278 91 70 -3271 BridgePilings-sm2.tml
 91 65 -2484 97 70 -2479 VanillaVillageCobbleHouse-r.tml
 109 75 -3047 119 92 -3037 WatchtowerRuined.tml
 120 69 -2956 128 78 -2948 LargeStoneTwoStoryHouse.tml
@@ -125,8 +125,8 @@
 764 62 -8567 772 71 -8559 LargeStoneTwoStoryHouse.tml
 783 66 -8851 796 98 -8838 OreSpire.tml
 807 62 -8686 815 70 -8675 MinersHut.tml
-827 65 -8477 835 75 -8469 LargeStoneHouseWBasement.tml
 827 63 -8941 834 66 -8936 Melonfield.tml
+827 65 -8477 835 75 -8469 LargeStoneHouseWBasement.tml
 839 66 -8388 843 74 -8384 SmallWell.tml
 840 70 -8770 851 81 -8761 ArrowTrapTomb.tml
 848 69 -8553 850 73 -8550 SkeletonHeadStatue.tml
