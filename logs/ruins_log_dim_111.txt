@@ -1,3 +1,5 @@
+Did not find any Building data for ./config/ruins_config/swamp_defiled, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/red_desert, creating empty folder for it: failed
 
 Loading options from: /minecraft/data/World/LOST
 tries_per_chunk_normal = 6
